@@ -2,11 +2,11 @@
 
 Um mini-projeto divertido e interativo criado para arrancar um sorriso e garantir um "Sim!". 
 
-## 🌐 Acesse o Projeto
+## Acesse o Projeto
 
 Você pode testar a brincadeira ao vivo acessando o link abaixo:
 
-**[CLIQUE AQUI PARA TESTAR O PEDIDO]([COLE_O_SEU_LINK_AQUI](https://lucas-thiery.github.io/Quero-ver/))** 
+**[CLIQUE AQUI PARA TESTAR O PEDIDO](https://lucas-thiery.github.io/Quero-ver/)** 
 
 ## Sobre
 
